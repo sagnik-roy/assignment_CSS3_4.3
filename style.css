@@ -1,0 +1,14 @@
+div:hover{
+    border-radius:50%;
+    background-color: orange;
+    transition-duration: 4s;
+    
+}
+
+div{
+    
+    width:20px !important;
+    height: 20px !important;
+    background-color: green;
+    padding:10%;
+}
